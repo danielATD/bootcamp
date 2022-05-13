@@ -1,0 +1,3 @@
+Creacion proyecto
+1. npm init -y
+2. editar package.json

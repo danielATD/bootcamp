@@ -1,0 +1,9 @@
+Buscar en aplicaciones de windows: CMD
+
+dir: Muestra las carpetas dentro de la dirección que estas
+cd: Cambiar directorio, sería cd nombredelacarpeta
+cd ~: Ir a raiz del directorio
+cd .. : Ir un nivel atras
+mkdir: crear carpeta
+
+code .: Abrir VSCODE en esa carpeta

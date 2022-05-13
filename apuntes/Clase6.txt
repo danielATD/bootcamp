@@ -1,0 +1,18 @@
+Métodos HTTP
+-GET
+-POST
+-PUT/PATH
+-DELETE
+
+Puertos más comunes:
+4000
+5000
+8000
+
+Para Hacer Peticiones en http necesitamos:
+Un Método
+Una ruta
+Una versión
+Un body
+
+Al escribir "/" en los metodos indica que estamos visitando el home, inicio o raíz

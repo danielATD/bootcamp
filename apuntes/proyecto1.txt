@@ -1,0 +1,22 @@
+Aplicación de horarios
+
+Fecha de entrega: 19-20 de mayo
+
+Integrantes: Máximo 3 personas
+
+Compartir su repositorio de GitHub
+
+Requerimientos:
+    -Inicio de sesión
+    -Crear Usuarios
+    -Crear eventos
+    -Eliminar eventos
+    -Editar eventos
+    -Mostrar eventos
+    -Asignar usuarios al evento
+    -Aplicación funcional
+
+Lineamientos:
+    -Tener buenas prácticas
+    -BD: SQL
+    -Lenguaje: JavaScript (NodeJS)
