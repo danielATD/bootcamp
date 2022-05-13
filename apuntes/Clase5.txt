@@ -1,0 +1,43 @@
+Fecha: 22/04/2022
+
+La computadora se comunica con el servidor. 
+Para esto deben escoger un medio de comunicación, por ejemplo HTTP
+
+Es posible realizar comunicaciones entre servidor y servidor, no solamente un cliente y un servidor
+
+El cliente hace un request y el servidor da una respuesta
+Petición: Solicitar algo al servidor.
+Respuesta: Respondemos con lo solicitado.
+
+Un servidor puede hacerle peticions a otro servidor.
+
+Aquitectura cliente servidor es una arquitectura de aplicación.
+
+Nosotros trabajamos con la petición que haga el cliente.
+
+Para trabajar con HTTP Necesitamos:
+-Método para indicar que clase de acciones estamos pidiendo
+-Código de status, nos indica si tengo los permisos necesarios
+-Una url a donde realizar la petición
+-Body, la información que le envia el cliente al servidor.
+
+Petición
+-Method        URL/Ruta      Versión
+GET         /index.html         HTTP/1.1            --Primera Línea: Cosas más importantes de la petición
+Host: wikipedia.org                                 --Encabezados: Configuración extra.
+Accept: text/html
+
+Respuesta
+Versión        Código Respuesta
+HTTP/1.1        200 OK
+<html>        ---------------------------------------Body
+ ..
+ </html>
+
+ Métodos de HTTP
+ -GET               -Obtener información del servidor.
+ -POST              -Crear un recurso
+ -PUT/PATH          -Editar
+ -DELETE            -Eliminar
+
+ Es necesario indicar un puerto para realizar peticiones.
