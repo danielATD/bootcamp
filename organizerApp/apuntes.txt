@@ -1,3 +1,8 @@
 Creacion proyecto
 1. npm init -y
 2. editar package.json
+
+
+
+tinyint es boolean
+Para el formato date en sql es ano-mes-dia separado por guiones.
